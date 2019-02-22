@@ -13,11 +13,11 @@
     
     <item>
       <title>Info</title>
-      <link>https://barrit.be/about/</link>
+      <link>https://barrit.be/info/</link>
       <pubDate>Fri, 22 Feb 2019 21:50:07 +0100</pubDate>
       
-      <guid>https://barrit.be/about/</guid>
-      <description>Hello world, ik gebruik deze website om mezelf Hugo aan te leren. Kijk gerust mee.</description>
+      <guid>https://barrit.be/info/</guid>
+      <description>Wat is dit Wel, ik gebruik deze website om mezelf Hugo aan te leren. Kijk gerust mee.</description>
     </item>
     
   </channel>
