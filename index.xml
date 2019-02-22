@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>barrit.be</title>
+    <link>https://barrit.be/</link>
+    <description>Recent content on barrit.be</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>be-nl</language>
+    <lastBuildDate>Fri, 22 Feb 2019 21:50:07 +0100</lastBuildDate>
+    
+	<atom:link href="https://barrit.be/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Info</title>
+      <link>https://barrit.be/about/</link>
+      <pubDate>Fri, 22 Feb 2019 21:50:07 +0100</pubDate>
+      
+      <guid>https://barrit.be/about/</guid>
+      <description>Hello world, ik gebruik deze website om mezelf Hugo aan te leren. Kijk gerust mee.</description>
+    </item>
+    
+  </channel>
+</rss>
